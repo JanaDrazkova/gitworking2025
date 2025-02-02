@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 def print_ascii_mouse():
     with open("mouse.txt") as f:
         for line in f.readlines():
